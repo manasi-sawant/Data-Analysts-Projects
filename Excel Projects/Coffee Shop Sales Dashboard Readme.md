@@ -30,3 +30,5 @@ Category Distribution → Coffee dominates sales, followed by Branded items and 
 
 
 ### Coffee Shop Sales Dashboard
+
+![Coffee Shop Sales Dashboard](https://github.com/manasi-sawant/Data-Analysts-Projects/blob/b4eb6235d7370159e8c53a65a0b1f2b13e39c321/Excel%20Projects/Screenshot%202025-09-23%20192926.png)
