@@ -1,4 +1,6 @@
 ☕ Coffee Shop Sales Dashboard
+
+
 This project showcases an Excel Dashboard built to analyze coffee shop sales data.
 The dashboard provides insights into sales performance, customer behavior, and product trends.
 
