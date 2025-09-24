@@ -26,3 +26,7 @@ Customer Preferences → 31% prefer Regular size, 30% Large, 30% Not Defined, an
 Store Locations → Highest revenue from Hell’s Kitchen and Astoria.
 Sales by Hour → Peak sales during morning hours (8–11 AM).
 Category Distribution → Coffee dominates sales, followed by Branded items and Bakery products.
+
+
+### Coffee Shop Sales 
+![Coffee Shop Sales](https://github.com/manasi-sawant/Data-Analysts-Projects/blob/76b2265dd33d3006e07302565161011b7bbca296/Excel%20Project/Screenshot%202025-09-23%20192926.png)
